@@ -1,6 +1,8 @@
 
 .nav{
     display: flex;
+    background-color:  #d0e6cd ;
+
  
 }
 body{ 
@@ -56,10 +58,12 @@ h2{
     
 }
 
-
-.di{
+.bg-light{
+    color:#d0e6cd ; 
+}
+.footer{
     border: 10px;
-    background-color:  #55a14b ;
+    background-color:  #d0e6cd ;
     font-size: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
